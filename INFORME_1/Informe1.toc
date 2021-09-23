@@ -1,0 +1,5 @@
+\babel@toc {spanish}{}
+\contentsline {section}{\numberline {1}Determinación del alcance}{2}{}%
+\contentsline {section}{\numberline {2}Requerimientos}{2}{}%
+\contentsline {subsection}{\numberline {2.1}R. Funcionales}{2}{}%
+\contentsline {subsection}{\numberline {2.2}R. No Funcionales}{2}{}%
