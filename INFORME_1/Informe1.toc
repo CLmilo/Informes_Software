@@ -3,3 +3,6 @@
 \contentsline {section}{\numberline {2}Requerimientos}{2}{}%
 \contentsline {subsection}{\numberline {2.1}R. Funcionales}{2}{}%
 \contentsline {subsection}{\numberline {2.2}R. No Funcionales}{2}{}%
+\contentsline {section}{\numberline {3}Casos de Uso}{3}{}%
+\contentsline {subsection}{\numberline {3.1}Caso de Uso de Negocio General}{3}{}%
+\contentsline {subsection}{\numberline {3.2}Caso de Uso de Negocio Específico CUN03}{4}{}%

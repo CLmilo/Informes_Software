@@ -1,17 +1,29 @@
 \documentclass{article}
-\usepackage{geometry}
+\usepackage[a4paper]{geometry}
 \usepackage[spanish]{babel}
 \usepackage{parskip}
 \usepackage{setspace}
 \usepackage{graphicx}
+\usepackage{typearea}
+\usepackage{fancyhdr}
+\geometry{total={6in, 9in}}
 
+
+%HEADRULE
+
+\pagestyle{fancy}
+\setlength{\headheight}{30.2pt}
+\setlength{\headsep}{30pt}
+
+%INICIO DEL DOCUMENTO
 \begin{document}
 \onehalfspacing    
 \include{caratula/Caratula.tex}
 
 \clearpage
 \tableofcontents
-\clearpage
+\clearpage 
+%--------------------------------------------------------------------------------
 \section{Determinación del alcance}
 Nuestra aplicación web debe llegar a facilitar la interacción a los usuarios, dueños de felinos, con otros que estén en un rango limitado de distancia asociada a su ubicación actual captura por la aplicación para mostrar tarjetas de vista como presentación de otros felinos que se adecuen a los parámetros de edad, raza y otros más establecidos por el usuario. Facilitando así la comunicación interna en la aplicación con usuarios con los cuales se haya hecho match.
 \section{Requerimientos}
@@ -37,4 +49,29 @@ Nuestra aplicación web debe llegar a facilitar la interacción a los usuarios, 
     \item El sistema debe permitir desactivar o eliminar tu usuario
     \item El sistema debe tener una opción modo trabajo de fácil acceso
 \end{enumerate}
+\clearpage
+%--------------------------------------------------------------------------------
+\section{Casos de Uso}
+\subsection{Caso de Uso de Negocio General}
+\begin{figure}[h]
+    \begin{center}
+        \includegraphics[width=0.5\textwidth]{images/Caso de uso general.png}
+        \caption{caso de uso de negocio general}
+    \end{center}
+\end{figure}
+\clearpage
+%--------------------------------------------------------------------------------
+\subsection{Caso de Uso de Negocio Específico CUN03}
+\vspace{5mm}
+\begin{figure}[h]
+    \begin{center}
+        \includegraphics[width=\textwidth]{images/Caso de uso especifico.png}
+        \caption{Caso de uso de negocio específico}
+    \end{center}
+\end{figure}
+\clearpage
+%--------------------------------------------------------------------------------
+
+
+
 \end{document}

@@ -189,6 +189,85 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
 INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
 INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
 INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics-def/pdftex.def
+INPUT /usr/share/texlive/texmf-dist/tex/latex/koma-script/typearea.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/koma-script/typearea.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/koma-script/typearea.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/koma-script/typearea.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/koma-script/typearea.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/koma-script/typearea.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/koma-script/typearea.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/koma-script/typearea.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/koma-script/typearea.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/koma-script/typearea.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/koma-script/typearea.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/koma-script/scrkbase.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/koma-script/scrkbase.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/koma-script/scrkbase.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/koma-script/scrkbase.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/koma-script/scrkbase.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/koma-script/scrkbase.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/koma-script/scrkbase.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/koma-script/scrkbase.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/koma-script/scrkbase.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/koma-script/scrkbase.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/koma-script/scrkbase.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/koma-script/scrbase.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/koma-script/scrbase.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/koma-script/scrbase.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/koma-script/scrbase.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/koma-script/scrbase.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/koma-script/scrbase.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/koma-script/scrbase.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/koma-script/scrbase.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/koma-script/scrbase.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/koma-script/scrbase.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/koma-script/scrbase.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlfile-hook.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlogo.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlogo.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlogo.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlogo.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlogo.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlogo.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlogo.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlogo.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlogo.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlogo.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlogo.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/koma-script/scrlogo.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/graphics/keyval.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT /usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
@@ -256,6 +335,17 @@ INPUT /home/jmt/Documentos/UNIVERSIDAD/Informes_Software/INFORME_1/Informe1.toc
 INPUT /home/jmt/Documentos/UNIVERSIDAD/Informes_Software/INFORME_1/Informe1.toc
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
 OUTPUT /home/jmt/Documentos/UNIVERSIDAD/Informes_Software/INFORME_1/Informe1.toc
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsl10.tfm
+INPUT /home/jmt/Documentos/UNIVERSIDAD/Informes_Software/INFORME_1/images/Caso de uso general.png
+INPUT /home/jmt/Documentos/UNIVERSIDAD/Informes_Software/INFORME_1/images/Caso de uso general.png
+INPUT /home/jmt/Documentos/UNIVERSIDAD/Informes_Software/INFORME_1/images/Caso de uso general.png
+INPUT /home/jmt/Documentos/UNIVERSIDAD/Informes_Software/INFORME_1/images/Caso de uso general.png
+INPUT /home/jmt/Documentos/UNIVERSIDAD/Informes_Software/INFORME_1/images/Caso de uso general.png
+INPUT /home/jmt/Documentos/UNIVERSIDAD/Informes_Software/INFORME_1/images/Caso de uso especifico.png
+INPUT /home/jmt/Documentos/UNIVERSIDAD/Informes_Software/INFORME_1/images/Caso de uso especifico.png
+INPUT /home/jmt/Documentos/UNIVERSIDAD/Informes_Software/INFORME_1/images/Caso de uso especifico.png
+INPUT /home/jmt/Documentos/UNIVERSIDAD/Informes_Software/INFORME_1/images/Caso de uso especifico.png
+INPUT /home/jmt/Documentos/UNIVERSIDAD/Informes_Software/INFORME_1/images/Caso de uso especifico.png
 INPUT /home/jmt/Documentos/UNIVERSIDAD/Informes_Software/INFORME_1/Informe1.aux
 INPUT /home/jmt/Documentos/UNIVERSIDAD/Informes_Software/INFORME_1/caratula/Caratula.aux
 INPUT /home/jmt/Documentos/UNIVERSIDAD/Informes_Software/INFORME_1/caratula/Caratula.aux
@@ -264,3 +354,4 @@ INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
+INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb
