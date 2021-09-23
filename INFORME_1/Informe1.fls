@@ -336,11 +336,12 @@ INPUT /home/jmt/Documentos/UNIVERSIDAD/Informes_Software/INFORME_1/Informe1.toc
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmbx10.tfm
 OUTPUT /home/jmt/Documentos/UNIVERSIDAD/Informes_Software/INFORME_1/Informe1.toc
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/cm/cmsl10.tfm
-INPUT /home/jmt/Documentos/UNIVERSIDAD/Informes_Software/INFORME_1/images/Caso de uso general.png
-INPUT /home/jmt/Documentos/UNIVERSIDAD/Informes_Software/INFORME_1/images/Caso de uso general.png
-INPUT /home/jmt/Documentos/UNIVERSIDAD/Informes_Software/INFORME_1/images/Caso de uso general.png
-INPUT /home/jmt/Documentos/UNIVERSIDAD/Informes_Software/INFORME_1/images/Caso de uso general.png
-INPUT /home/jmt/Documentos/UNIVERSIDAD/Informes_Software/INFORME_1/images/Caso de uso general.png
+INPUT /home/jmt/Documentos/UNIVERSIDAD/Informes_Software/INFORME_1/images/Caso de uso general v2.png
+INPUT /home/jmt/Documentos/UNIVERSIDAD/Informes_Software/INFORME_1/images/Caso de uso general v2.png
+INPUT /home/jmt/Documentos/UNIVERSIDAD/Informes_Software/INFORME_1/images/Caso de uso general v2.png
+INPUT /home/jmt/Documentos/UNIVERSIDAD/Informes_Software/INFORME_1/images/Caso de uso general v2.png
+INPUT /home/jmt/Documentos/UNIVERSIDAD/Informes_Software/INFORME_1/images/Caso de uso general v2.png
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/jknappen/ec/tcrm1000.tfm
 INPUT /home/jmt/Documentos/UNIVERSIDAD/Informes_Software/INFORME_1/images/Caso de uso especifico.png
 INPUT /home/jmt/Documentos/UNIVERSIDAD/Informes_Software/INFORME_1/images/Caso de uso especifico.png
 INPUT /home/jmt/Documentos/UNIVERSIDAD/Informes_Software/INFORME_1/images/Caso de uso especifico.png
@@ -350,8 +351,10 @@ INPUT /home/jmt/Documentos/UNIVERSIDAD/Informes_Software/INFORME_1/Informe1.aux
 INPUT /home/jmt/Documentos/UNIVERSIDAD/Informes_Software/INFORME_1/caratula/Caratula.aux
 INPUT /home/jmt/Documentos/UNIVERSIDAD/Informes_Software/INFORME_1/caratula/Caratula.aux
 INPUT /home/jmt/Documentos/UNIVERSIDAD/Informes_Software/INFORME_1/caratula/Caratula.aux
+INPUT /usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
 INPUT /usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb
+INPUT /usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb

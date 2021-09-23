@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.9.7)  23 SEP 2021 13:09
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.9.7)  23 SEP 2021 13:35
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -332,25 +332,25 @@ LaTeX Info: Redefining \% on input line 52.
  [2
 
 ]
-<images/Caso de uso general.png, id=20, 597.23125pt x 435.6275pt>
-File: images/Caso de uso general.png Graphic file (type png)
-<use images/Caso de uso general.png>
-Package pdftex.def Info: images/Caso de uso general.png  used on input line 58.
-(pdftex.def)             Requested size: 216.81pt x 158.1419pt.
-LaTeX Info: Redefining \. on input line 62.
-LaTeX Info: Redefining \% on input line 62.
+<images/Caso de uso general v2.png, id=20, 661.47125pt x 564.1075pt>
+File: images/Caso de uso general v2.png Graphic file (type png)
+<use images/Caso de uso general v2.png>
+Package pdftex.def Info: images/Caso de uso general v2.png  used on input line 58.
+(pdftex.def)             Requested size: 216.81pt x 184.89073pt.
+LaTeX Info: Redefining \. on input line 65.
+LaTeX Info: Redefining \% on input line 65.
  [3
 
- </home/jmt/Documentos/UNIVERSIDAD/Informes_Software/INFORME_1/images/Caso de uso general.png>]
-<images/Caso de uso especifico.png, id=25, 1279.78125pt x 1052.93375pt>
+ </home/jmt/Documentos/UNIVERSIDAD/Informes_Software/INFORME_1/images/Caso de uso general v2.png>]
+<images/Caso de uso especifico.png, id=26, 1279.78125pt x 1052.93375pt>
 File: images/Caso de uso especifico.png Graphic file (type png)
 <use images/Caso de uso especifico.png>
-Package pdftex.def Info: images/Caso de uso especifico.png  used on input line 68.
+Package pdftex.def Info: images/Caso de uso especifico.png  used on input line 71.
 (pdftex.def)             Requested size: 433.62pt x 356.75562pt.
-LaTeX Info: Redefining \. on input line 72.
-LaTeX Info: Redefining \% on input line 72.
-LaTeX Info: Redefining \. on input line 72.
-LaTeX Info: Redefining \% on input line 72.
+LaTeX Info: Redefining \. on input line 78.
+LaTeX Info: Redefining \% on input line 78.
+LaTeX Info: Redefining \. on input line 78.
+LaTeX Info: Redefining \% on input line 78.
  [4
 
  </home/jmt/Documentos/UNIVERSIDAD/Informes_Software/INFORME_1/images/Caso de uso especifico.png>] (/home/jmt/Documentos/UNIVERSIDAD/Informes_Software/INFORME_1/Informe1.aux (/home/jmt/Documentos/UNIVERSIDAD/Informes_Software/INFORME_1/caratula/Caratula.aux)
@@ -358,18 +358,18 @@ LaTeX Info: Redefining \. on input line 9.
 LaTeX Info: Redefining \% on input line 9.
 ) ) 
 Here is how much of TeX's memory you used:
- 4529 strings out of 479304
- 69647 string characters out of 5869780
- 411716 words of memory out of 5000000
- 21675 multiletter control sequences out of 15000+600000
- 405907 words of font info for 35 fonts, out of 8000000 for 9000
+ 4532 strings out of 479304
+ 69701 string characters out of 5869780
+ 410716 words of memory out of 5000000
+ 21677 multiletter control sequences out of 15000+600000
+ 406242 words of font info for 36 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  111i,11n,116p,583b,426s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb>
-Output written on /home/jmt/Documentos/UNIVERSIDAD/Informes_Software/INFORME_1/Informe1.pdf (5 pages, 533336 bytes).
+{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1000.pfb>
+Output written on /home/jmt/Documentos/UNIVERSIDAD/Informes_Software/INFORME_1/Informe1.pdf (5 pages, 549519 bytes).
 PDF statistics:
- 47 PDF objects out of 1000 (max. 8388607)
- 28 compressed objects within 1 object stream
+ 52 PDF objects out of 1000 (max. 8388607)
+ 32 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  16 words of extra memory for PDF output out of 10000 (max. 10000000)
 
