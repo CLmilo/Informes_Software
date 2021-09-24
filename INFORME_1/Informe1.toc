@@ -1,12 +1,12 @@
 \babel@toc {spanish}{}\relax 
-\contentsline {section}{\numberline {1}Determinación del alcance}{2}{}%
-\contentsline {section}{\numberline {2}Requerimientos}{2}{}%
-\contentsline {subsection}{\numberline {2.1}R. Funcionales}{2}{}%
-\contentsline {subsection}{\numberline {2.2}R. No Funcionales}{2}{}%
-\contentsline {section}{\numberline {3}Modelo de Negocio}{3}{}%
-\contentsline {subsection}{\numberline {3.1}Caso de uso negocio}{3}{}%
-\contentsline {subsection}{\numberline {3.2}Reglas de negocios}{3}{}%
-\contentsline {section}{\numberline {4}Casos de Uso}{4}{}%
+\contentsline {section}{\numberline {1}Modelo de Negocio}{2}{}%
+\contentsline {subsection}{\numberline {1.1}Caso de uso negocio}{2}{}%
+\contentsline {subsection}{\numberline {1.2}Reglas de negocios}{2}{}%
+\contentsline {section}{\numberline {2}Determinación del alcance}{3}{}%
+\contentsline {section}{\numberline {3}Requerimientos}{3}{}%
+\contentsline {subsection}{\numberline {3.1}Requerimientos Funcionales}{3}{}%
+\contentsline {subsection}{\numberline {3.2}Requerimientos No Funcionales}{3}{}%
+\contentsline {section}{\numberline {4}Descripción de Casos de Uso}{4}{}%
 \contentsline {subsection}{\numberline {4.1}Caso de Uso del Sistema General}{4}{}%
 \contentsline {subsection}{\numberline {4.2}Descripción del Caso General}{4}{}%
 \contentsline {subsection}{\numberline {4.3}Caso de Uso de Sistema Específico CUN03}{5}{}%
