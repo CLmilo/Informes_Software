@@ -3,8 +3,9 @@
 \contentsline {section}{\numberline {2}Requerimientos}{2}{}%
 \contentsline {subsection}{\numberline {2.1}R. Funcionales}{2}{}%
 \contentsline {subsection}{\numberline {2.2}R. No Funcionales}{2}{}%
-\contentsline {section}{\numberline {3}Casos de Uso}{3}{}%
-\contentsline {subsection}{\numberline {3.1}Caso de Uso de Negocio General}{3}{}%
-\contentsline {subsection}{\numberline {3.2}Descripción del Caso General}{3}{}%
-\contentsline {subsection}{\numberline {3.3}Caso de Uso de Negocio Específico CUN03}{4}{}%
-\contentsline {subsection}{\numberline {3.4}Descripción del Caso Específico}{4}{}%
+\contentsline {section}{\numberline {3}Reglas de negocios}{3}{}%
+\contentsline {section}{\numberline {4}Casos de Uso}{4}{}%
+\contentsline {subsection}{\numberline {4.1}Caso de Uso de Negocio General}{4}{}%
+\contentsline {subsection}{\numberline {4.2}Descripción del Caso General}{4}{}%
+\contentsline {subsection}{\numberline {4.3}Caso de Uso de Negocio Específico CUN03}{5}{}%
+\contentsline {subsection}{\numberline {4.4}Descripción del Caso Específico}{5}{}%
