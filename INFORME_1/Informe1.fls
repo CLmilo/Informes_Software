@@ -340,6 +340,13 @@ INPUT Informe1.toc
 INPUT C:\Users\omarc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx10.tfm
 OUTPUT Informe1.toc
 INPUT C:\Users\omarc\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmsl10.tfm
+INPUT .\images\Caso de uso negocio.png
+INPUT .\images\Caso de uso negocio.png
+INPUT images\Caso de uso negocio.png
+INPUT .\images\Caso de uso negocio.png
+INPUT .\images\Caso de uso negocio.png
+INPUT .\images\Caso de uso negocio.png
+INPUT .\images\Caso de uso negocio.png
 INPUT .\images\Caso de uso general v2.png
 INPUT .\images\Caso de uso general v2.png
 INPUT images\Caso de uso general v2.png
